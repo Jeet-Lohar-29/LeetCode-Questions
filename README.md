@@ -60,6 +60,7 @@
 | [1193-monthly-transactions-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1341-movie-rating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
