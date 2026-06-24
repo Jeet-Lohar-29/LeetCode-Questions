@@ -7,6 +7,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -61,5 +63,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
