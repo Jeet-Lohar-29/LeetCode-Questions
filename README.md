@@ -61,6 +61,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1280-students-and-examinations/) | Easy |
