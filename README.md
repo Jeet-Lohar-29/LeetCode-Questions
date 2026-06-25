@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0180-consecutive-numbers/) | Medium |
+| [0184-department-highest-salary](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0184-department-highest-salary/) | Medium |
 | [0262-trips-and-users](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0262-trips-and-users/) | Hard |
 | [0585-investments-in-2016](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
