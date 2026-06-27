@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -119,9 +120,11 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
