@@ -1,19 +1,26 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int last[3] = {-1, -1, -1};
+        int counts[3] = {0};
+        int start = 0;
         int result = 0;
         int n = s.length();
-        
-        for (int i = 0; i < n; ++i) {
-            last[s[i] - 'a'] = i;
-            
-            // The number of valid substrings ending at i is determined 
-            // by the furthest left character of the three.
-            int min_idx = min({last[0], last[1], last[2]});
-            result += (min_idx + 1);
+
+        for (int end = 0; end < n; ++end) {
+            counts[s[end] - 'a']++;
+
+            // Shrink the window from the left as long as it contains 'a', 'b',
+            // and 'c'
+            while (counts[0] > 0 && counts[1] > 0 && counts[2] > 0) {
+                counts[s[start] - 'a']--;
+                start++;
+            }
+
+            // All indices from 0 to start-1 can form a valid substring ending
+            // at 'end'
+            result += start;
         }
-        
+
         return result;
     }
 };
