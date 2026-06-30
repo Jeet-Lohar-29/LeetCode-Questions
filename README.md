@@ -14,6 +14,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,10 +131,15 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
