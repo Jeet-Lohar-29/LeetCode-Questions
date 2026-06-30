@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -125,11 +126,13 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
