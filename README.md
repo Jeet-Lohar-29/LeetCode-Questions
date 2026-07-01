@@ -17,6 +17,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +145,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
