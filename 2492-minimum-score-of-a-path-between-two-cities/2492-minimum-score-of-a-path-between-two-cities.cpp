@@ -1,37 +1,43 @@
 class Solution {
 public:
     int minScore(int n, vector<vector<int>>& roads) {
-        // Build adjacency list
-        vector<vector<pair<int, int>>> adj(n + 1);
-        for (const auto& road : roads) {
-            adj[road[0]].push_back({road[1], road[2]});
-            adj[road[1]].push_back({road[0], road[2]});
+        // Initialize DSU tracking arrays locally
+        vector<int> parent(n + 1);
+        for (int i = 1; i <= n; i++) {
+            parent[i] = i;
         }
 
-        // Tracking array for the minimum edge found along paths
-        vector<int> min_edge_to(n + 1, 1e9);
-        queue<int> q;
-        
-        q.push(1);
-        min_edge_to[1] = 1e9;
+        // Lambda helper function for finding group representative (with path compression)
+        auto findGroup = [&](auto& self, int i) -> int {
+            if (parent[i] == i) return i;
+            return parent[i] = self(self, parent[i]);
+        };
 
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
+        // Lambda helper function to merge two separate groups together
+        auto unionGroups = [&](int i, int j) {
+            int root_i = findGroup(findGroup, i);
+            int root_j = findGroup(findGroup, j);
+            if (root_i != root_j) {
+                parent[root_i] = root_j;
+            }
+        };
 
-            for (const auto& neighbor : adj[u]) {
-                int v = neighbor.first;
-                int dist = neighbor.second;
+        // Step 1: Link all connected cities together
+        for (const auto& road : roads) {
+            unionGroups(road[0], road[1]);
+        }
 
-                int possible_score = min(min_edge_to[u], dist);
-                // Incorrectly limits graph discovery based on path sequence scores
-                if (possible_score < min_edge_to[v]) {
-                    min_edge_to[v] = possible_score;
-                    q.push(v);
-                }
+        // Step 2: Grab the unique group ID of city 1
+        int main_group = findGroup(findGroup, 1);
+        int min_score = 1e9;
+
+        // Step 3: Find the overall minimum distance road in this entire group
+        for (const auto& road : roads) {
+            if (findGroup(findGroup, road[0]) == main_group) {
+                min_score = min(min_score, road[2]);
             }
         }
 
-        return min_edge_to[n];
+        return min_score;
     }
 };
