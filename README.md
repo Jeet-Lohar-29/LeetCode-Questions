@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -168,6 +170,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
@@ -179,4 +182,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
