@@ -11,6 +11,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -123,6 +124,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -165,6 +167,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
