@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
