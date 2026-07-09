@@ -1,32 +1,34 @@
 class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        vector<int> parent(n);
-        for (int i = 0; i < n; i++) parent[i] = i;
+        // breaks[i] stores the number of connectivity breaks up to index i
+        vector<int> breaks(n, 0);
         
-        // Lambda helper for finding component representative
-        auto findComp = [&](auto& self, int i) -> int {
-            if (parent[i] == i) return i;
-            return parent[i] = self(self, parent[i]);
-        };
-        
-        // Connect consecutive items if they satisfy maxDiff
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i + 1] - nums[i] <= maxDiff) {
-                int root1 = findComp(findComp, i);
-                int root2 = findComp(findComp, i + 1);
-                if (root1 != root2) {
-                    parent[root1] = root2;
-                }
+        for (int i = 1; i < n; i++) {
+            breaks[i] = breaks[i - 1];
+            if (nums[i] - nums[i - 1] > maxDiff) {
+                breaks[i]++;
             }
         }
         
         vector<bool> answer;
         answer.reserve(queries.size());
         
-        // O(1) query time using component IDs
         for (const auto& q : queries) {
-            answer.push_back(findComp(findComp, q[0]) == findComp(findComp, q[1]));
+            int u = q[0];
+            int v = q[1];
+            
+            if (u == v) {
+                answer.push_back(true);
+                continue;
+            }
+            
+            int left = min(u, v);
+            int right = max(u, v);
+            
+            // If the number of breaks between left and right is 0, a path exists
+            int total_breaks_in_range = breaks[right] - breaks[left];
+            answer.push_back(total_breaks_in_range == 0);
         }
         
         return answer;
