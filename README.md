@@ -112,6 +112,7 @@
 | [1280-students-and-examinations](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1341-movie-rating/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
