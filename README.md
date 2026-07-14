@@ -23,6 +23,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -215,6 +217,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sorting
@@ -223,4 +226,8 @@
 | [1288-remove-covered-intervals](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
