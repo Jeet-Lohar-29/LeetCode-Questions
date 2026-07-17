@@ -23,6 +23,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -40,6 +41,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -47,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -69,6 +72,7 @@
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -93,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -217,6 +222,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -229,5 +235,10 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
