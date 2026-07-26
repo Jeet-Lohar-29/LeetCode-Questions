@@ -231,6 +231,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sorting
@@ -240,6 +241,7 @@
 | [1288-remove-covered-intervals](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
