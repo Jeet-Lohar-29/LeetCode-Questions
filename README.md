@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -225,6 +226,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -234,6 +236,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
