@@ -168,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0155-min-stack](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -252,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
