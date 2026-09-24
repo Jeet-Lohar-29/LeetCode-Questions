@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -151,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0198-house-robber/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
