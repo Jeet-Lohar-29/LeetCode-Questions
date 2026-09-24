@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0198-house-robber](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0198-house-robber/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/0198-house-robber/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jeet-Lohar-itzJeeSKUULL/LeetCode-Questions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
